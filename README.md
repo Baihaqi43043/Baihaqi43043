@@ -1,10 +1,1 @@
-- 👋 Hi, my name is baihaqi
-- 👀 I’m 3rd semester 8 grade student at Lhokseumawe State Polytechnic
-- 🌱 I’m Currently undergoing D4 education Information and Computer Engineering Department, Informatics Engineering study program
-- 📫 Programming language I'm proficient in Java, php, mysql , laravel and boostrap
-- and some frameworks like boostrap, laravel and flutter
-
-<!---
-Baihaqi43043/Baihaqi43043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full Stack Developer with 2+ years of experience, crafting everything from sleek frontends to robust backend systems. My toolkit includes Laravel, Redis, JavaScript, Python, TensorFlow, Docker, MySQL, Apache, Node.js, and Next.js. Healthcare tech particularly excites me, where I've developed systems from prescription management to patient visit tracking. I thrive on technical challenges and believe in building solutions that are both beautiful and bulletproof. Whether it's architecting databases or polishing user interfaces, I deliver code that's as reliable as it is elegant.
